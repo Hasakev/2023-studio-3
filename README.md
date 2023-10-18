@@ -20,15 +20,15 @@ A game developed in the CSSE3200 adaptation of the LibGDX game engine. For detai
 > Below are some reflections from me :)
 
 ## Accomplishments from my team
-Entire economy system
-Engineer movement and UI
-Game over with engineers
-The basis of all screens other than main
-Turret selection screen
-level selection screen
-Economy tower
-The basis of all on click actions
-Upgrade UI
-Bug fixes and code smells
+- Entire economy system
+- Engineer movement and UI
+- Game over with engineers
+- The basis of all screens other than main
+- Turret selection screen
+- level selection screen
+- Economy tower
+- The basis of all on click actions
+- Upgrade UI
+- Bug fixes and code smells
 
 
