@@ -16,3 +16,19 @@ You are welcome to use the game engine for your own purposes. It is released und
 
 This is the main branch for Outworld Outposts, a game developed by Studio 3 of CSSE3200 (Semester 2 2023). 
 A game developed in the CSSE3200 adaptation of the LibGDX game engine. For details and documentation, refer to the [Wiki](https://github.com/UQcsse3200/2023-studio-3/wiki)
+
+> Below are some reflections from me :)
+
+## Accomplishments from my team
+Entire economy system
+Engineer movement and UI
+Game over with engineers
+The basis of all screens other than main
+Turret selection screen
+level selection screen
+Economy tower
+The basis of all on click actions
+Upgrade UI
+Bug fixes and code smells
+
+
